@@ -1,0 +1,33 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Samantha Parras"
+  navbar:
+    background: "#F15A22"
+    foreground: "#0C2340"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd 
+        text: Projects
+    right:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/samantha-parras-872420291/
+    - icon: github 
+      href: https://github.com/samanthaparras
+    - icon: clipboard2-heart-fill
+      href: assets/SamanthaParrasResume!.pdf
+      
+
+format:
+  html:
+    theme: cosmo
+    mainfont: "serif"
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,26 @@
+---
+title: "Capstone"
+description: "Capstone project for SURE 2024 at CMU. Finding predictors for Alcohol Impaired Driving Deaths and Drug Overdose Deaths."
+date: July 2024 
+about: 
+  template: solana 
+  image: cover.jpg
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/Dcampoverdlema/Drug-overdose-and-alcohol-related-deaths
+    - icon: laptop
+      text: "Slides" 
+    - icon: easel2
+      text: "Poster"
+    - icon: file-earmark
+      text: "Report" 
+      
+      
+---
+
+insert description here... 
+
+
+
+

@@ -1,0 +1,17 @@
+---
+title: "EDA project"
+description: "Looking at maternal healthcare disparities"
+date: June 2024 
+about: 
+  template: solana 
+  image: cover.jpg
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/rdevraj3105/EDA-project-Maternal-Healthcare-Disparities
+    - icon: laptop
+      text: "Slides" 
+      href: https://docs.google.com/presentation/d/1aW3CfdFiWmRhABokr7kCh-zhEFIp1S6c5V1FsEtjGmw/edit?usp=sharing
+      
+      
+---

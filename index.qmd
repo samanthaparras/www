@@ -1,0 +1,31 @@
+---
+title: "Samantha Parras"
+about:
+  template: jolla
+  image: assets/cutemanatee.webp
+  links: 
+    - icon: envelope
+      text: Email 
+      href: mailto:dmsparras@gmail.com 
+      target: _blank
+    - icon: github
+      text: GitHub 
+      href: https://github.com/samanthaparras
+      target: _blank
+    - icon: linkedin 
+      text: LinkedIn 
+      href: https://www.linkedin.com/in/samantha-parras-872420291/
+      target: _blank
+
+
+
+---
+
+Welcome to my website! I'm a junior at the University of Texas at San Antonio majoring in Data Science and Statistics. Im also minoring in Mathematics. I'm interested in pursusing higher education in bio statistics. 
+
+```{r}
+
+
+
+
+```
